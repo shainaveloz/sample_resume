@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "description": "Sample Resume for Crowded",
+  "main": "server.js",
+  "authors": [
+    "shainaveloz <shaina.veloz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "http://github.com/shainaveloz/sample_resume",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "0.3.1"
+  }
+}
